@@ -1,7 +1,6 @@
 
 #include "Game.h"
 
-
 int main(int argc, const char* argv[])
 {
 	
@@ -9,11 +8,7 @@ int main(int argc, const char* argv[])
 
 	game->Run();
 
-	
 	return 0;
-
-
-	
 }
 
 

@@ -11,6 +11,7 @@ class Game
 {
 	Snake* snake;
 	GameMap* GMap;
+
 public:
 	Game();
 	~Game();

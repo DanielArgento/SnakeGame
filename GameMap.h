@@ -25,7 +25,7 @@ public:
 	//Tile values for the map
 	 short map[size];
 
-	
+	//Method Declarations
 	 void GenerateFood();
 	 void PrintMap();
 	 char getMapValue(char value);

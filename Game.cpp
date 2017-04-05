@@ -29,6 +29,7 @@ void Game::Run()
 		ClearScreen();
 		PrintMap();
 
+		//pause for 0.5 seconds before executing the loop again
 		std::this_thread::sleep_for(std::chrono::milliseconds(500));
 
 	}

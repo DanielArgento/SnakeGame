@@ -25,8 +25,6 @@ public:
 	//IsGameRunning
 	bool running = true;
 
-
-
 };
 
 

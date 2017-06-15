@@ -81,6 +81,7 @@ void Game::Update()
 }
 
 void Game::PrintMap(){
+
 	GMap->PrintMap();
 }
 

@@ -11,6 +11,7 @@ GameMap::~GameMap()
 	delete[] map;
 }
 
+
 //Methods used to initialise the game and print it to screen
 
 //Print everything to console

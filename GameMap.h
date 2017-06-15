@@ -7,7 +7,6 @@ class Snake;
 
 class GameMap	
 {
-	
 	//instance of snake to acess methods
 	Snake* snake;
 
